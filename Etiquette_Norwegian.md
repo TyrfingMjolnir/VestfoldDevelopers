@@ -1,6 +1,6 @@
 #Vestfold Developers Slack Etiquette
 
-Med Vestfold Developers på Slack håper vi å samle utviklere (og alle som er interessert i utvikling) på tvers av språk, interesser og erfaring i et åpent, trygt og inkluderende miljø. Med Vestfold som utgangspunkt, håper vi å skape et bunnsolid og attraktiv utviklermiljø.
+Med Vestfold Developers på Slack håper vi å samle utviklere (og alle som er interessert i utvikling) på tvers av språk, interesser og erfaring i et åpent, trygt og inkluderende miljø. Med Vestfold som utgangspunkt, håper vi å skape et bunnsolid og attraktivt utviklermiljø.
 
 Vi forstår at Slack kan være nytt for mange, og for å hjelpe kommunikasjonen oss medlemmer imellom, har vi utarbeidet noen spilleregler. Dette dokumentet forklarer forventet etikette når du deltar i diskusjonen.
 
