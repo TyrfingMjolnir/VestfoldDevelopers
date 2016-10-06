@@ -2,10 +2,10 @@
 
 Med Vestfold Developers på Slack håper vi å samle utviklere (og alle som er interessert i utvikling) på tvers av språk, interesser og erfaring i et åpent, trygt og inkluderende miljø. Med Vestfold som utgangspunkt, håper vi å skape et bunnsolid og attraktiv utviklermiljø.
 
-Vi forstår at Slack kan være nytt for mange, og for å hjelpe kommunikasjonen oss medlemmer imellom, har vi utarbeidet noen spilleregler. Dette dokumentet forklarer forventet etikette når du deltar i diskusjonen.
+Vi forstår at Slack kan være nytt for mange, og for å hjelpe kommunikasjonen oss medlemmer i mellom, har vi utarbeidet noen spilleregler. Dette dokumentet forklarer forventet etikette når du deltar i diskusjonen.
 
 ##Høflighet
-Vær hyggelig og høflig. Vi er ikke nødvendigvis enige om alt. Det er viktig med mangfold og for å få bredde i våre samtaler. Vi må sørge for å bidra på en konstruktiv og respektfull måte.
+Vær hyggelig og høflig. Vi er ikke nødvendigvis enige om alt. Det er viktig med mangfold og for å få bredde i våre samtaler. Vi må sørge for å bidra på en konstruktiv og respektfull måte. Husk at ansikts til ansikts kommunikasjon som sarkasme og humor ikke alltid reiser like greit gjennom tegn som med ansiktsuttrykk og fort kan føre til støy i kommunikasjonen.
 
 ##Språk
 Skriftlig språk kan lett mistolkes. Vi må veie våre ord og tonen som brukes, slik at det enkleste mulig kan forståes. Forsøk å unngå sarkasme; den har en tendens til å oppfattes feil.
